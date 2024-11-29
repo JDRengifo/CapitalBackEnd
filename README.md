@@ -9,7 +9,7 @@ Node JS + Express JS
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/darianaren/task-management.git
+   git clone https://github.com/JDRengifo/CapitalBackEnd.git
    ```
 
 2. **Instala las dependencias**: Entra al directorio del proyecto y ejecuta el siguiente comando para instalar las dependencias necesarias.
