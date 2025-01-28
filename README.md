@@ -25,4 +25,4 @@ Node JS + Express JS
    npm run dev
    ```
 
-4. **Abre la aplicación en tu navegador:** La aplicación debería estar disponible en tu navegador
+4. **Abre la aplicación en tu navegador:** La aplicación debería estar disponible en tu navegador.
